@@ -1,7 +1,7 @@
 
 GENE-CENTRIC MODELS FOR PESTICIDE DEGRADATION IN SOIL
 
-These set of models are develop with the aim of testing a new model biogeochemical model informed with genetic information for particular pesticide degraders in soils. Genetic data is becoming more and more available and the information that provides can be valuable to constraint kinetic parameters and improve model predictions. The project is written entirely in Matlab. 
+This set of models was developed with the aim of testing a new biogeochemical model informed by genetic information for particular pesticide degraders in soils. Genetic data is becoming more available and the information that they provide can be valuable to constrain kinetic parameters and improve model predictions. The project is written entirely in Matlab.
 
 TABLE OF CONTENT
 
