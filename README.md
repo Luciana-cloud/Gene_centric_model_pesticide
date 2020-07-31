@@ -7,7 +7,8 @@ TABLE OF CONTENT
 
 The present project includes several files to a better organization of the information.
 
-- Data file            :  Data from batch experimients of degradation of 2,4-D and MCPA (4).
+- Data file            :  Data from batch experimients of degradation of 2,4-D and MCPA (4). Soil mineralization (%), tfdA transcripts in soil (transcript copies per g of soil),
+                          tfdA genes in soil (gene copies per g of soil)
 
 - Model versions       : Gene-centric model versions V0 (full model), V1, V2, V3 and biomass-based models VB1 and VB2.
 
