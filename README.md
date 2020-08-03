@@ -23,7 +23,7 @@ REFERENCES
 
 (1) Pagel,  H.;  Poll,  C.;  Ingwersen,  J.;  Kandeler,  E.;  Streck,  T.  Modeling  coupled  pesticide degradation and organic matter turnover :  From gene abundance to process rates.Soil Biology and Biochemistry2016,103, 349–364.
 
-(2) Marschmann, G. L.; Pagel, H.; Kügler, P.; Streck, T. Equinality , sloppiness , and emergent structures of mechanistic soil biogeochemical models.Environmental Modelling and Software 2019,122, 104518
+(2) Marschmann, G. L.; Pagel, H.; Kügler, P.; Streck, T. Equifinality , sloppiness , and emergent structures of mechanistic soil biogeochemical models.Environmental Modelling and Software 2019,122, 104518
 
 (3) Pagel, H.; Ingwersen, J.; Poll, C.; Kandeler, E.; Streck, T.; Evaluation, L.; Evaluation, L.; Pagel, H.;Evaluation, L.; Streck, T. Micro-scale modeling of pesticide degradation coupled to carbon turnover in the detritusphere: Model description and sensitivity analysis.Biogeochemistry 2014,117, 185–204
 
@@ -33,4 +33,4 @@ REFERENCES
 
 (6) Pianosi, F.; Wagener, T. A simple and efficient method for global sensitivity analysis based on cumulative distribution functions.Environmental Modelling and Software2015,67, 1–11.
 
-(7) Link, K. G.; Stobb, M. T.; Paola, J. D.; Neeves, K. B.; Fogelson, L.; Sindi, S. S.; Leiderman, K. A local and global sensitivity analysis of a mathematical model of coagulation and platelet deposition under ow.PLoS ONE2018,13, 1–38. 
+(7) Link, K. G.; Stobb, M. T.; Paola, J. D.; Neeves, K. B.; Fogelson, L.; Sindi, S. S.; Leiderman, K. A local and global sensitivity analysis of a mathematical model of coagulation and platelet deposition under flow.PLoS ONE2018,13, 1–38. 
