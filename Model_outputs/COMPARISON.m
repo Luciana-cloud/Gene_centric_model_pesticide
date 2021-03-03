@@ -15,4 +15,4 @@ n           = 54;       % Number of observations
 
 AIC_0       =  2*m+n*log(SSEdor/n)+(2*m*(m+1)/(n-m-1));
 
-BIC_0       = -2*log(SSEdor)+2*log(n)*m;
+BIC_0       = n*log(SSEdor/n)+m*log(n);
